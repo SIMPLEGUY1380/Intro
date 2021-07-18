@@ -1,3 +1,3 @@
 # Intro ! 
 
-Our First File in GitHub ! ! !
+Our First File in GitHub ! 
